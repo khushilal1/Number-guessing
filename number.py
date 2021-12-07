@@ -1,30 +1,6 @@
 
-# print(" WELCOME TO NUMBER GUESSING GAME!!")
-# import random
-
-# x=input("press Y to start game\n")
-# if(x=="Y"):
-#     c=random.randint(0,9)
-#     while(x=="Y"):
-#      n=int(input("Enter your guessing\n"))
-
-#     if(n==c):
-#         print("you are right\n")
-#         break
-#     elif(n>c):
-#             print("your numbr is greater than my number\n")
-            
-#         elif(n<c):
-#             print("your number is smaller than my number\n")
-    
-           
-# else:
-#     x=print("press Y to start game again\n")
-
-
-
-
 import random
+
 print("WELCOME TO THE NUMBER GUESSNNG GAME")
 print("Choose two number between which you want to play")
 
